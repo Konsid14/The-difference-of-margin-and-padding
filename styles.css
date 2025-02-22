@@ -1,0 +1,10 @@
+.margin{
+  border:10px solid darkblue;
+  margin:10px;
+  background-color:cyan;
+}
+.padding{
+   background-color:cyan;
+  border:10px solid darkblue;
+  padding:10px;
+}
